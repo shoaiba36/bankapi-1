@@ -1,2 +1,5 @@
-const num1=10
-const num=20
+const num1=10;
+
+const num2=20
+
+console.log(num1+num2)
